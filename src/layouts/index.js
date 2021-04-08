@@ -1,4 +1,4 @@
-import advanced from './advanced';
+import advanced from './_advanced';
 import category from './category';
 import home from './home';
 import product from './product';
